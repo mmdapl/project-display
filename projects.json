@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/142vip.png",
+      "name": "凡是过往、皆为序章",
+      "desc": "目前正在进行第三次重构，将会以Nodejs替代Java作为主要技术栈，围绕MySQL、Redis高可用，分布式容器部署为主题进行迭代开发。心怀梦想，期待ing~",
+      "keys": ["个人网站", "142vip主站", "正在重构"],
+      "url": "https://142vip.cn"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/blog.png",
+      "name": "沉住气、慢慢来",
+      "desc": "日常工作、学习、生活中总结的各类文章笔记，主要涉及开发技术总结记录，偶尔也会感慨万千、福利推荐、摸鱼划水；",
+      "keys": ["个人博客", "读书笔记", "Github开源","Bilibili",""],
+      "url": "https://blog.142vip.cn"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/oauth2.png",
+      "name": "Oauth2支撑平台",
+      "desc": "Oauth2支撑平台是一款独立开发、功能多样的授权接入系统，对于注册的用户【站长】满足日常web开发中涉及到的用户注册、登录、客户端接入、版本迭代等功能，采用Element UI、Iview等前端框架进行页面样式优化渲染，部署于Docker环境中，性能稳定",
+      "keys": ["Oauth2协议", "Eggjs框架", "iview UI","登录会话","免费注册"],
+      "url": "http://oauth2.142vip.cn"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/bilibili-reptile.png",
+      "name": "Bilibili用户信息爬虫",
+      "desc": "Prometheus 是由 SoundCloud 开源监控告警解决方案。",
+      "keys": ["Bilibili平台", "Eggjs框架", "用户信息收集"],
+      "url": "http://api.142vip.cn/bilibili"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/egg-plugin.png",
+      "name": "Egg插件开源合集",
+      "desc": "提升应用扩展能力的独立的功能封装,目前已完成egg-axios-plus和egg-sequelize-plus的版本迭代，后续会开源egg-grpc-plus的使用",
+      "keys": ["个人代码开源","Egg插件开发",  "Npm统一管理","egg-axios-plus","egg-sequelize-plus"],
+      "url": "https://github.com/mmdapl"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/article.png",
+      "name": "Github-代码笔记",
+      "desc": "日常工作、学习、生活中总结的各类文章笔记，主要涉及开发技术总结记录，偶尔也会感慨万千、福利推荐、心理疗养；若发现博客外链不能访问则可能博客设置修改过，请直接访问博客；所有内容来源于个人博客 ",
+      "keys": ["Js流水账","学习笔记","生活总结", "文章整理"],
+      "url": "https://github.com/mmdapl/article-notes"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/prometheus.png",
+      "name": "Promethe监控",
+      "desc": "Prometheus是由SoundCloud开源监控告警解决方案。在142vip系列站点中，用来定时拉取监控信息，实时监控MySQL集群、云服务器的健康状况，服务异常报警",
+      "keys": ["mysql集群", "linux系统", "实时监控"],
+      "url": "http://view.142vip.cn/prometheus"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/grafana.png",
+      "name": "Grafana可视化平台",
+      "desc": "用来对Prometheus实时监控数据进行可视化展示。Grafana 是一款采用 go 语言编写的开源应用，主要用于大规模指标数据的可视化展现，是网络架构和应用分析中最流行的时序数据展示工具",
+      "keys": ["mysql集群", "linux系统", "实时监控","测试用户/密码：test/123456"],
+      "url": "http://view.142vip.cn/grafana"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/rabbitmq.png",
+      "name": "Rabbit后台管理",
+      "desc": "RabbitMQ是实现了高级消息队列协议（AMQP）的开源消息中间件，142vip站点相关项目的消息队列将会对接到rabbitmq中服务，进行常见的客户端、服务端操作",
+      "keys": ["rabbitmq", "docker", "消息队列"],
+      "url": "http://view.142vip.cn/rabbit"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/konga-api.png",
+      "name": "Kong-站点网关管理",
+      "desc": "Prometheus 是由 SoundCloud 开源监控告警解决方案。",
+      "keys": ["mysql集群", "linux系统", "实时监控"],
+      "url": "http://konga.142vip.cn"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/yapi.png",
+      "name": "Yapi-功能接口管理",
+      "desc": "YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API ，功能强大",
+      "keys": ["Yapi系统", "接口管理", "mock测试","Api文档生成"],
+      "url": "http://yapi.142vip.cn"
+    }
+  ]
+}
