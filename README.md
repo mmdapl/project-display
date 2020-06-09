@@ -1,7 +1,7 @@
 
 > project-displayproject-display项目，意为“项目展示”，主要用来展示142vip.cn网站在重构过程中使用到的开源项目管理后台、以及自己的开源项目、已完成的项目的展示，将会涉及到两端。即：Web端和移动端
 
-基于Element UI和Vant UI框架构建的项目展示静态页面，支持PC端和移动端,[线上效果预览](http://view.142vip.cn)
+基于Element UI和Vant UI框架构建的项目展示静态页面，支持Web端和移动端,[线上效果预览](http://view.142vip.cn)
 <p align="center">
 <a href="#wechat" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-yellow.svg"></a> 
 <a href="https://space.bilibili.com/350937042" target="_blank"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-green.svg"></a> 
