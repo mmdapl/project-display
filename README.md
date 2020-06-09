@@ -1,9 +1,7 @@
-## project-display
 
-> 基于Element UI和Vant UI框架构建的项目展示静态页面，支持PC端和移动端
+> project-displayproject-display项目，意为“项目展示”，主要用来展示142vip.cn网站在重构过程中使用到的开源项目管理后台、以及自己的开源项目、已完成的项目的展示，将会涉及到两端。即：Web端和移动端
 
-![](http://youpai.142vip.cn/project-display/images/project-show.png)
-
+基于Element UI和Vant UI框架构建的项目展示静态页面，支持PC端和移动端,[线上效果预览](http://view.142vip.cn)
 <p align="center">
 <a href="#wechat" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-yellow.svg"></a> 
 <a href="https://space.bilibili.com/350937042" target="_blank"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-green.svg"></a> 
@@ -73,7 +71,7 @@ getProjectInfos () {
 },
 ```
 - 项目部署
-目前已经上线的项目，采用docker+nginx的方式，当然考虑到vue单页面应用的SEO和加载问题，部分打包后的文件，采用`又拍云`的方式进行存储。详细可以参考[项目校验说明](项目简要说明.md)
+目前已经上线的项目，采用docker+nginx的方式，当然考虑到vue单页面应用的SEO和加载问题，部分打包后的文件，采用`又拍云`的方式进行存储。详细可以参考[项目简要说明](项目简要说明.md)
 ### 全站置灰
 以来的是projects.json文件中的gray字段，gray 意为灰色，这本来是一个特殊的功能，当gray设置为true时，线上的项目就会因为gray设置为true，整个站点置于灰色，用于特殊日期默哀、惊醒、告慰等，单元不会使用吧
 ```json
@@ -103,11 +101,16 @@ getProjectInfos () {
 
 - PC端
 
-![](http://youpai.142vip.cn/project-display/images/image-20200609140209515.png)
-
+<p align="center">
+<img src="http://youpai.142vip.cn/project-display/images/image-20200609140209515.png" /> 
+</p>
 - 移动端
 
-![](http://youpai.142vip.cn/project-display/images/image-20200609140530406.png)
+<p align="center">
+<img src="http://youpai.142vip.cn/project-display/images/image-20200609140530406.png" /> 
+</p>
+
+![]()
 
 ### 赞赏支持
 
