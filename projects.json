@@ -76,6 +76,21 @@
       "desc": "YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API ，功能强大",
       "keys": ["Yapi系统", "接口管理", "mock测试","Api文档生成"],
       "url": "http://yapi.142vip.cn"
+    },
+    
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/docker.png",
+      "name": "Docker私有镜像仓库",
+      "desc": "依托阿里云私有镜像仓库，用来存放142vip系列项目测试版、稳定版镜像，方便后续项目部署、迁移",
+      "keys": ["docker镜像", "阿里云", "私有仓库",""],
+      "url": "https://cr.console.aliyun.com/repository/cn-hangzhou/mmdapl-docker-dev/bilibili/images"
+    },
+    {
+      "image": "http://youpai.142vip.cn/project-display/images/ali.png",
+      "name": "Nodejs性能平台",
+      "desc": "对已上线的nodejs项目进行系统化监控，统一接入阿里Nodejs监控平台，便于线上系统的健康检查、故障定位、性能优化",
+      "keys": ["aliNode平台", "性能监控", "健康检查","可视化"],
+      "url": "https://node.console.aliyun.com/dashboard/"
     }
   ]
 }
