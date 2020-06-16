@@ -77,7 +77,7 @@
 .project-div {
   margin-left: 120px;
   margin-right: 120px;
-  max-width: 1400px;
+  min-width: 1200px;
   height: 700px;
 }
 .project-item {
