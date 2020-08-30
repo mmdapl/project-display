@@ -1,16 +1,19 @@
 
 > project-display项目，意为“项目展示”，主要用来展示142vip.cn网站在重构过程中使用到的开源项目管理后台、以及自己的开源项目、已完成的项目的展示，将会涉及到两端。即：Web端和移动端
+>
+> 【B站&公众号搜】：Rong姐姐好可爱
 
 基于Element UI和Vant UI框架构建的项目展示静态页面，支持Web端和移动端,[线上效果预览](http://view.142vip.cn)
 <p align="center">
+  <a href="#gzh" target="_blank"><img src="https://img.shields.io/badge/WeChat-公众号-5wd.svg"></a> 
 <a href="#wechat" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-yellow.svg"></a> 
 <a href="https://space.bilibili.com/350937042" target="_blank"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-green.svg"></a> 
-<a href="https://142vip.cn" target="_blank"><img src="https://img.shields.io/badge/142vip-个人网站-orange.svg"></a>
-<a href="http://yapi.142vip.cn" target="_blank"><img src="https://img.shields.io/badge/yapi-接口系统-8fe.svg"></a>
-<a href="https://blog.142vip.cn" target="_blank"><img src="https://img.shields.io/badge/blog-我的博客-blue.svg"></a>
+<a href="https://142vip.cn" target="_blank"><img src="https://img.shields.io/badge/142vip-网站-orange.svg"></a>
+<a href="https://blog.142vip.cn" target="_blank"><img src="https://img.shields.io/badge/blog-博客-blue.svg"></a>
 <a href="https://github.com/mmdapl" target="_blank"><img src="https://img.shields.io/badge/github-Github-9ac.svg"></a>
 <a href="https://gitee.com/mmdapl" target="_blank"><img src="https://img.shields.io/badge/gitee-码云-4ed.svg"></a>
 <a href="https://blog.csdn.net/Mmdapl" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-8ea.svg"></a>
+<a href="http://yapi.142vip.cn" target="_blank"><img src="https://img.shields.io/badge/juejin-掘金-8fe.svg"></a>
 </p>
 
 ### 基本目录
@@ -104,27 +107,58 @@ getProjectInfos () {
 <p align="center">
 <img src="http://youpai.142vip.cn/project-display/images/image-20200609140209515.png" /> 
 </p>
+
+
 - 移动端
 
 <p align="center">
 <img src="http://youpai.142vip.cn/project-display/images/image-20200609140530406.png" /> 
 </p>
 
-![]()
 
-### 赞赏支持
 
-人生漫漫，却又白驹过隙；若项目对你有帮助，不如请作者喝一杯奶茶...赞赏过得一定要扫下方右侧微信跟我说呀！！！！！！
+
+## 赞赏支持
+
+
+> 相逢不用忙归去，明日黄花蝶也愁；若系列文章对你有帮助，不如请作者喝一杯伏见桃山...
+>
+> **赞赏过的一定要扫下方右侧微信跟我说呀！！！！！！**
+
+
 <a name="wechat"></a>
-<p align="center">
-<img src="https://cdn.142vip.cn/article-notes/img/weChatDonate.jpg" width="320" height="320" align="center" style="margin-right:20px;" /><img src="https://cdn.142vip.cn/article-notes/img/wechat.jpg" width="320" height="320" align="center" />
+
+
+<div align="left">
+<img src="https://cdn.142vip.cn/article-notes/img/weChatDonate.jpg" width="300" height="300" style="border-radius:10px;" />
+
+
+</div>
+
+
+## 联系我
+
+
+> 对仓库有任何问题或建议，欢迎微信“骚扰”，商务合作请备注！
+<div align="left">
+<img src="https://cdn.142vip.cn/article-notes/img/wechat.jpg" width="300" height="300"  style="border-radius:10px;"/>
+</div>
 
 
 
+
+
+## 公众号
+
+
+如果大家想要实时关注我更新的文章以及我的日常的话，可以关注我的公众号，基本每天都会更新技术和各种吹水文章，就当做是记录心情、成长的地方吧
+
+
+<a name="gzh"></a>
+
+
+<p>
+  <img src="http://youpai.142vip.cn/article/images/gzh.png"  style="border-radius:10px;">
 </p>
 
 
-
-
-
-**若你有跟作者相同的困惑、感悟，欢迎关注[B站--Rong姐姐好可爱](https://space.bilibili.com/350937042) 交流学习.**
