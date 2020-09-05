@@ -153,12 +153,9 @@ getProjectInfos () {
 
 如果大家想要实时关注我更新的文章以及我的日常的话，可以关注我的公众号，基本每天都会更新技术和各种吹水文章，就当做是记录心情、成长的地方吧
 
-
 <a name="gzh"></a>
 
-
-<p>
-  <img src="http://youpai.142vip.cn/article/images/gzh.png"  style="border-radius:10px;">
-</p>
-
+<div>
+  <img src="https://cdn.142vip.cn/gzh.png"  style="border-radius:10px;">
+</div>
 
