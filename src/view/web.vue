@@ -198,45 +198,45 @@ export default {
   },
   data () {
     return {
-      // projects: [{
-      //   image: 'http://blogimg.zhulou.net/jianshu/2019/3/zI7FZr.png',
-      //   name: 'Promethe监控',
-      //   desc: 'Prometheus 是由 SoundCloud 开源监控告警解决方案。',
-      //   keys: ['mysql集群', 'linux系统', '实时监控'],
-      //   url: 'http://view.142vip.cn/prometheus'
-      // }, {
-      //   image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
-      //   name: 'Grafana数据可视化',
-      //   desc: 'XXX',
-      //   keys: ['欠人情翁', '二恶烷若'],
-      //   url: 'http://view.142vip.cn/grafana'
-      // }, {
-      //   image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
-      //   name: '监控平台',
-      //   desc: 'XXX',
-      //   keys: ['欠人情翁', '二恶烷若'],
-      //   url: 'http://view.142vip.cn/grafana'
-      // }, {
-      //   image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
-      //   name: '监控平台',
-      //   desc: 'XXX',
-      //   keys: ['欠人情翁', '二恶烷若'],
-      //   url: 'http://view.142vip.cn/grafana'
-      // }, {
-      //   image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
-      //   name: '个人网站',
-      //   desc: 'XXX',
-      //   keys: ['欠人情翁', '二恶烷若'],
-      //   url: 'https://142vip.cn'
-      // }, {
-      //   image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
-      //   name: '我的博客',
-      //   desc: 'XXX',
-      //   keys: ['欠人情翁', '二恶烷若'],
-      //   url: 'http://blog.142vip.cn/'
-      // }]
-      projects: [],
-      isShow: false
+      projects: [{
+        image: 'http://blogimg.zhulou.net/jianshu/2019/3/zI7FZr.png',
+        name: 'Promethe监控',
+        desc: 'Prometheus 是由 SoundCloud 开源监控告警解决方案。',
+        keys: ['mysql集群', 'linux系统', '实时监控'],
+        url: 'http://view.142vip.cn/prometheus'
+      }, {
+        image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
+        name: 'Grafana数据可视化',
+        desc: 'XXX',
+        keys: ['欠人情翁', '二恶烷若'],
+        url: 'http://view.142vip.cn/grafana'
+      }, {
+        image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
+        name: '监控平台',
+        desc: 'XXX',
+        keys: ['欠人情翁', '二恶烷若'],
+        url: 'http://view.142vip.cn/grafana'
+      }, {
+        image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
+        name: '监控平台',
+        desc: 'XXX',
+        keys: ['欠人情翁', '二恶烷若'],
+        url: 'http://view.142vip.cn/grafana'
+      }, {
+        image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
+        name: '个人网站',
+        desc: 'XXX',
+        keys: ['欠人情翁', '二恶烷若'],
+        url: 'https://142vip.cn'
+      }, {
+        image: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1238940841,3150153789&fm=26&gp=0.jpg',
+        name: '我的博客',
+        desc: 'XXX',
+        keys: ['欠人情翁', '二恶烷若'],
+        url: 'http://blog.142vip.cn/'
+      }],
+      // projects: [],
+      isShow: true
     }
   },
   methods: {
@@ -259,10 +259,10 @@ export default {
     }
   },
   created () {
-    this.getProjectInfos()
+    // this.getProjectInfos()
   },
   mounted () {
-    this.getProjectInfos()
+    // this.getProjectInfos()
   }
 
 }
